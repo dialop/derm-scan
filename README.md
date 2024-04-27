@@ -1,1 +1,1 @@
-# derm-scan
+# DermScan
