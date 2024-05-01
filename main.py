@@ -1,5 +1,5 @@
 def main():
-    print("Demo-Scan")
+    print("Derm-Scan")
 
 if __name__ == "__main__":
     main()
